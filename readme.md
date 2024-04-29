@@ -1,6 +1,6 @@
 - 👋 Hello, I’m LAOUALI ABDOU Zaharadini, you can call me Dini.
 - 👀 I’m interested in web and Machine learning.
-- 🌱 I am a Front-end developer.
+- 🌱 I am a full-stack developer.
 - 💞️ I’m looking to collaborate on your projects.
 - 📫 How to reach me dinilaouale@gmail.com , Facebook: https://www.facebook.com/zaharadinilaoualiabdou.hassane and LinkedIn: https://www.linkedin.com/in/laouali-abdou-zaharadini.
 <!---
